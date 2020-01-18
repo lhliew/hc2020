@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "hackcam2020-1579362564590",
+  "private_key_id": "27d74d467bee1af1bcabb35da87dcfab750b4c86",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDivNwGzPCjVN2r\nQtL6vmuPrn7//Hm1BW904T1RHnLg2zGVqkPhAv7A3d5V1IDC3Lqt3Ljrep0RkzJH\necjJ1SgTywMT+7LxpXCdRHNZmZ3olT+8lES7Os2T5VE5y7PcJ39NX6khRKYDnmr8\nAuOZsVtA+52n1fPNdiRky5pdQWPW8rquRjXS/oOnJf6av7XxK4b+zabEns433igD\nfTKR1REhGmml2mtauJSn93AF/LVQKJT+spYok3S7wohnHZkXhYdX46zTmoC25JY3\n+s+HDuYnQ8csdPt4mT0QGMdVDA/1wq1U5xJaAcwgwqxjTdiT/1wcgJqhFaswJTxG\nD2De97SnAgMBAAECggEAEshcXb/aa11bY5WMjrL5jBSDdsc+ec1ydzc1ciPYlmHy\nEJjjOJ+b5PQ8N9X7uKi6Wi6/rtogatVLw/oFtRqQUFtv7Nbb8wKmepCyEYkVOLAs\ncH3D19K+NvM3MFd8lc87z3gONbBPJFuaNzgyDIhRq+dsHvwtTybrSuJG7lS9ZY/c\nBIykNDTjFfsYoykkyzX19aSfiwkQez5nYRG/kNUxpkZY043JaQ+0lNyYbfUniiRQ\n6OnsGSZeuZ1PmrciVZtfCcpG/5ikUBRkUNfRMWErYAesLPd/K8cfF6CgcPSB3BND\nm+ZjZhZyZiMB+x7YM1oj4Q2niSH5W15lk6EECbwf+QKBgQD/oAqmUw3mlcqozXKj\nQuoKG3jquiR3FlXZ04N7lB+pOd9E/ds1b/otNxP5LKxhpz/q9CzZVXWSdOxaHSXI\nV1vn8hBhC5RD5dANG6xRnrtLVXYSsv9EHlZxx0usq+Dng5ksYxjGQ4LC4dMKuZcy\npk/7rGdEN8PUTqVUemr32AWXjQKBgQDjEflSEKbZwu5JGvlscg0vkufYxh9zLFYO\njdp4A0i9azc5gMhrTXqpDYa+08TqZdC1HIsQwXWAkvEYdI+CEAIr3MfM5TrRmex7\nqRpKW9ZT4+iSuqRwg5nw7N0iIYIqilisOW7j5uC3c/cfmw6HRNtoZddjY4r3lvXj\nRHhuXggmAwKBgElgKy5rEMZroOyrbIiooH2ePStDm0wDwUjxigBjGGN/FTO8mrvQ\nFMP912HjDOhLFfHffTA1c7ZCkcWcMEg9q0f9F+6DYF/NC9d3ZhNXuPN66JWdg+CN\nxMqMJpC+FaTfBYzUNTxUDKjcIbQmadxEGRlo94uBZlj+6j5BlYrnG1PRAoGBAMwl\nt7rxX6D+YU92ofK+4133PNym21Wn8cLqBBXMFhS+lQrs3sOiB/p/P7rHGA4I9cgu\n3lR1Khgrg/kRqogrrlgTCcsL+ILDWVqgYROjV6FakRmCFh9WIgv6WKG78JQgh7Jn\nfGwHgddNuks/E6PH418L2Mbxktogbfci8wd/IOJTAoGBAIg+uCBUtfPErVMEru90\n1FqcfTZHq1HxRsS5Lh7aQDDrLRjTau+8pEu6VEAxhO8sh6KYRTcEX3JA86WMia0l\nMF70Ok/Rj67F81xAakNKAXfUzpU64ddLprtB0YfPvF62ai+NVrUYagpgWeS9gZ+W\nJeNEahBkyAvp91QHs8l9C9WM\n-----END PRIVATE KEY-----\n",
+  "client_email": "starting-account-r8x7xkmpzme8@hackcam2020-1579362564590.iam.gserviceaccount.com",
+  "client_id": "101801540987361767618",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/starting-account-r8x7xkmpzme8%40hackcam2020-1579362564590.iam.gserviceaccount.com"
+}
