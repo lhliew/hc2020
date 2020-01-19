@@ -4,6 +4,8 @@ import string
 def preprocessing(sentence):
     # removes apostrophies and fullstops and makes all lower case
     sentence = sentence.replace("'", "")
+    sentence = sentence.replace(",", "")
+    sentence = sentence.replace("-", " ")
     sentence = sentence.replace(".", "").lower()
 
     return sentence
@@ -85,9 +87,9 @@ def comparison(written, spoken):
     written_after_removals, words_not_spoken = word_removal(written, spoken)
     spoken_after_removals, extra_words = word_removal(spoken, written)
     matches, words_matched, words_not_matched = sentence_comp(written_after_removals, spoken_after_removals)
-    
+
     match_percentage = (((matches/((len(written)+len(spoken))/2))) * 100)
-    
+
     # print("written:   ", written)
     # print("spoken:   ", spoken)
     # print("written_after_removals:   ", written_after_removals)
@@ -107,4 +109,3 @@ def comparison(written, spoken):
 # spoken_og = "Australia east Coast have been hit by heavy rain and thunderstorms losing some bushfires by also bringing the Threat of flooding have been making the most of these conditions"
 
 # print(comparison(written_og, spoken_og))
-

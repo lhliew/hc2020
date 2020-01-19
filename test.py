@@ -30,7 +30,7 @@ def soundtostr():
         encoding=enums.RecognitionConfig.AudioEncoding.LINEAR16,
         #sample_rate_hertz=44100,
         audio_channel_count=1,
-        language_code='en-US')
+        language_code='en-UK')
 
     # Detects speech in the audio file
     response = client.recognize(config, audio)

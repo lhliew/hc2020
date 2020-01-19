@@ -60,9 +60,12 @@
         <div class="col-lg-10 align-self-end">
           <h1 class="text-uppercase text-white font-weight-bold">{{message|safe}}</h1>
           <h1 class="text-uppercase font-weight-bold" style="color:lawngreen">{{result|safe}}</h1>
+          <p class="text-white-75 font-weight-light mb-5"><a href="https://www.bbc.co.uk/news/topics/cmj34zmwm1zt/climate-change" style="color:dodgerblue;font-size:20px">Learn more about current issues</a>
+          </p>
           <hr class="divider my-4">
         </div>
         <div class="col-lg-8 align-self-baseline">
+          <p class="text-white-75 font-weight-light mb-5">You spoke: {{spoken|safe}}.</p>
           <p class="text-white-75 font-weight-light mb-5">Your accuracy score was {{score|safe}}. Well done!</p>
           <a class="btn btn-primary btn-xl js-scroll-trigger" href="/">Start again</a>
         </div>

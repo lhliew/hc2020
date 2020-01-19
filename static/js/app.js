@@ -147,6 +147,7 @@ function createDownloadLink(blob) {
 	var upload = document.createElement('a');
 	upload.href="#";
 	upload.innerHTML = "Upload";
+	upload.setAttribute("class", "btn btn-primary btn-xl");
 	upload.addEventListener("click", function(event){
 		  var xhr=new XMLHttpRequest();
 		  xhr.onload=function(e) {

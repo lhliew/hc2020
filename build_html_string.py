@@ -12,7 +12,7 @@ def build_html_string(written, spoken):
     print(words_matched)
     words_matched.append("END")
 
-    html_string = ["<h1 style='color:green'>"]
+    html_string = ["<h1 style='color:lawngreen;font-size:40px'>"]
 
     for i in range(len(written_after_preprocesssing)):
         # if len(words_matched) == 0:
@@ -34,7 +34,19 @@ def build_html_string(written, spoken):
     print(html_string)
     return html_string
 
+def build_spoken_html(spoken):
+    html_string = ["<h1 style='color:white;font-size:30px'>"]
+    # print(spoken)
+    spoken = spoken.split()
+    # print(spoken)
+    for word in spoken:
+        html_string.append(word)
+    html_string.append("</h1>")
+    html_string = " ".join(html_string)
+    print(spoken)
+    print(html_string)
 
+    return html_string
 # written = "The cat is sitting."
 # spoken = "cat his sitting"
 

@@ -1,5 +1,5 @@
 from sentence_comparison import comparison
-from build_html_string import build_html_string
+from build_html_string import *
 from test import soundtostr
 # import speech_recognition as sr
 
@@ -29,7 +29,7 @@ def scorenmatch(straudio,written_og):
     # print('Percentage match: %d%%' % (comparison(written_og, spoken_og)[0]))
     # print('HTML string:  ', build_html_string(written_og, spoken_og))
     roundedscore = round(comparison(written_og, spoken_og)[0])
-    return roundedscore, build_html_string(written_og, spoken_og)
+    return roundedscore, build_html_string(written_og, spoken_og), build_spoken_html(spoken_og)
 
 
 #score, resultshtml = scorenmatch(soundtostr())
