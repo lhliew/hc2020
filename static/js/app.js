@@ -135,13 +135,13 @@ function createDownloadLink(blob) {
 	// link.innerHTML = "Save to disk";
 	//
 	// //add the new audio element to li
-	// li.appendChild(au);
+	li.appendChild(au);
 	//
 	// //add the filename to the li
-	// li.appendChild(document.createTextNode(filename+".wav "))
+	li.appendChild(document.createTextNode(filename+".wav "))
 	//
 	// //add the save to disk link to li
-	// li.appendChild(link);
+	li.appendChild(link);
 
 	//upload link
 	var upload = document.createElement('a');
