@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "talkpal",
+  "private_key_id": "ff3171367192a57abc931d5ab06fee9fa67c4f24",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDZglMPAwt6Aeg1\nI90/FTd4R+gojVt5Ytrdiw23oI1deTHq3qFFNUm8QVUuGAToaPfSt1tq/TC243EV\ntpt6lETtwiPGBLNBNkQgOdm9YZ2sYki7XWvxhVLjdAEmseq1DoTQK3LhQvyTlNNs\n+LMPXdCRI2/i/64NuCft+kwwJjjlxGTi5jHagWz91aXjA0kJxcqslhFUW+TlO/y0\nBSlKRnFRVgUNIyjOVXR+l2kXgeXtlOmVTpsmoZpT85CbuEFZag7Q/qJJCJV/mKUs\n+HkdFMGlzbx+LpIWhvdnLrX5HGwu/9MiCtRsGJCNemNCPafv1YqfQPo78mGNJ+Bf\nszxKLNnVAgMBAAECggEAMhjEtZvvbEH9MCQbBLkHxiHVtGVecLZWj5lD5wvJE4Li\n/uQZA94ypfPsQQoSM09d6QAHQ7yeGDmJZcVhyRlWSOaio6yYdsgfZ8a7QlW14arf\ncpwhTQb2oOGqlDV9SAdYirO/KWfq0bkA+0PKxhrG+27Mid12wr0sITE5lAtxpmWp\nRcrP+sBUiQ9zn5DSXijuAxkot2C/KahttFGa0GQY0JyTXbX7px7ySvdJN77sxLUj\nfXX20fHXo1ag4qqnLFMtylI/bONFAcLlhm+Q6koJfqGCkWr3wXELOZoHDl3VW2QM\nt/38J1F46OeuAV8w+YGnlulKIiYYJ70sTfJETaRY7wKBgQD1+6+2Z+Qv9PBVq/db\nHNEI3wJQ++AGnjICRJsKOp1a9zaH6z/l9/xQCpwUAZT4rvAi2LdhTUkHc1wk9W0l\nBQKiS8yfluD4jl2tOcVily5YgzZtkktX4OXEZjjxN823FRfxk31lNw8bl4z0a3uP\ncxloPhYUQzhgCFewxHHV7Dh0VwKBgQDiXc2MFY8UoTzQfYYo8jM5wmXRnlvjzK5J\njptcppzl78uWxVCr00bcdclh8M53dwlg7NnFg8Fo0ob7jqAVAwzdcFNdxr2bhGRw\nXhiDtE+3xmOPfRr/LrAjVJWpv5aAxr6xOqhDKnXaCOdsFy097mFlyzGlx5tp6vTn\nOnkZpG/nswKBgCYXvOVNf2vhzZom0F5+vuxVxMEP0GiV9P6e6zeRTi75G6u+xZ1y\nYtNuYS9D83LzfGKZFwTteAK8XaenjihudzL09BI+xkYXnfAmgye6a8XvQ+2B+0L3\no/1fKzBHyQayMIwLoB6dgSxvsrdjMbZMR8H542dt5XwRrqrEMTDErRVvAoGAAfgC\n46cEWY+VcdLFqfGBVI1GSW5xKigLlAQzgbjJQI63XJZWv0fVI/G6UKnBgfR9FmS4\n+CjPM9Qw7FsvNT+TixGBCB3EZGfgX8HRwMN+tgB5uTPDWljTm1sO+iz6aCBSZEQ4\nVm02HTFaoewJrrI2EqaTxfdYeLFcc+5kQz7U4lUCgYEA7K9tjc7FYS3dby8mYwRJ\n/h4CxdSdPh5+bKg3NnxKkMLktgNShUxzsn2sLNTPWu9czdygLZVyPBvvMRk2nax5\n6tBHAFLb+ls+GUyep1XJLKQZ3NGdkC4XKAkUMSNc/272BCllE654sd2KUVBMFqWC\nAWTCeHTZv5OHqGbYPePFHOM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "talkpal@appspot.gserviceaccount.com",
+  "client_id": "104094983433905678831",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/talkpal%40appspot.gserviceaccount.com"
+}
